@@ -17,7 +17,6 @@ We specialize in **Rust** and **Python** because they offer:
 
 ### SDKs
 Production-ready SDKs that wrap Kenyan banking and payment APIs with clean, idiomatic interfaces in:
-- **Rust** — targeted for desktop environments: native GUIs, fast cross‑platform binaries, and memory‑safe, high-performance client applications.
 - **Python** — targeted for server backend services: web backends, API integrations, scripting, and ops automation.
 
 ### Developer Tools
